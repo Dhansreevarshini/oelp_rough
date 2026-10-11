@@ -1,14 +1,15 @@
-video,total_chunks,Agriculture and Farmers (%),Already executed promises (%),Content about the Opposition party (%),Education (%),Employment and Jobs (%),Governance (%),Health (%),Infrastructure (%),Law and order (%),Others (%),Religion and Culture (%),Social justice and Deprived communities (%),Unclassified (%),Welfare and Funds (%),Women's Development (%)
-AIADMK_eps_sivaganga_fHplbO42UOQ,40,7.5,0.0,20.0,0.0,12.5,7.5,0.0,7.5,7.5,0.0,5.0,0.0,15.0,17.5,0.0
-AIADMK_eps_tenkasi_ahxboKz3Fks,5,0.0,0.0,20.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,20.0,0.0
-AIADMK_eps_tirunelveli_MoolcbHo5Cw,30,10.0,0.0,10.0,0.0,10.0,16.67,3.33,0.0,6.67,3.33,0.0,0.0,23.33,16.67,0.0
-AIADMK_eps_unknown_place_BQ4RLl3plHA,11,0.0,9.09,0.0,0.0,0.0,18.18,18.18,18.18,9.09,0.0,0.0,0.0,27.27,0.0,0.0
-AIADMK_eps_unknown_place_CboJX5ZS7Yc,28,10.71,0.0,3.57,0.0,7.14,7.14,3.57,3.57,3.57,0.0,0.0,3.57,50.0,7.14,0.0
-AIADMK_eps_unknown_place_L4MaSsW53Dc,33,15.15,0.0,27.27,0.0,3.03,9.09,0.0,12.12,3.03,0.0,0.0,0.0,24.24,6.06,0.0
-AIADMK_eps_unknown_place_uzhdJcMnxTY,41,14.63,4.88,17.07,2.44,0.0,9.76,4.88,0.0,7.32,0.0,4.88,0.0,19.51,14.63,0.0
-BJP_annamalai_unknown_place_1Qkod1NMMAQ,28,3.57,0.0,10.71,0.0,0.0,10.71,0.0,17.86,10.71,0.0,0.0,0.0,39.29,7.14,0.0
-BJP_annamalai_unknown_place_DoUrt4-ENaI,26,3.85,0.0,30.77,3.85,0.0,11.54,0.0,0.0,7.69,0.0,0.0,0.0,34.62,7.69,0.0
-BJP_annamalai_unknown_place_OpCY9IipWyM,23,4.35,0.0,17.39,0.0,4.35,4.35,0.0,8.7,13.04,0.0,0.0,0.0,39.13,8.7,0.0
-BJP_annamalai_unknown_place_cwtK_O8ZUpg,15,0.0,0.0,13.33,0.0,0.0,26.67,0.0,0.0,26.67,0.0,0.0,0.0,20.0,0.0,13.33
-BJP_annamalai_unknown_place_eLuZZDLvCG0,23,0.0,4.35,4.35,0.0,8.7,13.04,0.0,0.0,4.35,0.0,0.0,8.7,34.78,21.74,0.0
-BJP_annamalai_unknown_place_w6T-z7DmPvE,19,5.26,0.0,21.05,5.26,0.0,10.53,0.0,10.53,10.53,0.0,0.0,0.0,15.79,21.05,0.0
+video,total_chunks,Agriculture and Farmers (%),Already executed promises (%),Content about the Opposition party (%),Education (%),Employment and Jobs (%),Governance (%),Health (%),Infrastructure (%),Law and order (%),Others (%),Religion and Culture (%),Social justice and Deprived communities (%),Welfare and Funds (%),Women's Development (%)
+AIADMK_eps_sivaganga_fHplbO42UOQ,40,1.28,12.82,44.02,0.0,2.14,7.69,0.0,3.42,14.1,0.0,7.26,0.0,7.26,0.0
+AIADMK_eps_tenkasi_ahxboKz3Fks,5,0.0,17.86,3.57,0.0,0.0,21.43,0.0,0.0,0.0,17.86,0.0,0.0,21.43,17.86
+AIADMK_eps_tirunelveli_MoolcbHo5Cw,30,1.73,11.56,53.76,0.0,1.73,8.67,0.58,0.0,9.83,6.36,0.0,0.0,5.78,0.0
+AIADMK_eps_chennai_BQ4RLl3plHA,11,0.0,17.46,71.43,0.0,0.0,3.17,3.17,3.17,1.59,0.0,0.0,0.0,0.0,0.0
+AIADMK_eps_tirunelveli_CboJX5ZS7Yc,28,1.95,19.48,52.6,0.0,1.3,4.55,0.65,0.65,3.9,6.49,0.0,0.65,7.79,0.0
+AIADMK_eps_unknown_place_L4MaSsW53Dc,33,28.95,13.16,38.95,0.0,0.53,1.58,0.0,2.11,0.53,5.26,0.0,0.0,8.95,0.0
+AIADMK_eps_tirunelveli_uzhdJcMnxTY,41,21.43,13.45,36.55,0.42,0.0,3.78,0.84,4.2,1.26,2.1,0.84,0.0,15.13,0.0
+BJP_annamalai_modakurichi_1Qkod1NMMAQ,28,7.01,19.11,40.13,0.0,3.18,8.28,0.0,3.18,5.1,12.74,0.0,0.0,1.27,0.0
+BJP_annamalai_kangeyam_DoUrt4-ENaI,26,17.69,3.4,42.86,7.48,3.4,8.84,0.0,3.4,1.36,0.0,0.0,0.0,11.56,0.0
+BJP_annamalai_unknown_place_OpCY9IipWyM,23,8.53,11.63,37.98,3.88,4.65,8.53,0.0,5.43,10.08,7.75,0.0,0.0,1.55,0.0
+BJP_annamalai_chennai_cwtK_O8ZUpg,15,0.0,0.0,77.01,0.0,0.0,10.34,0.0,0.0,4.6,0.0,0.0,0.0,0.0,8.05
+BJP_annamalai_unknown_place_eLuZZDLvCG0,23,3.85,8.46,66.15,0.0,1.54,2.31,0.0,3.85,4.62,0.0,0.0,1.54,7.69,0.0
+BJP_annamalai_manamadurai_w6T-z7DmPvE,19,5.41,13.51,44.14,0.9,0.0,1.8,0.0,1.8,15.32,4.5,0.0,0.0,12.61,0.0
+

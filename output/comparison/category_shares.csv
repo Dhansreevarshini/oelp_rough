@@ -1,37 +1,37 @@
 party,category,manifesto_%,speech_%,gap_(speech-manifesto)
-AIADMK,agriculture and farmers,3.58,10.07,6.49
-AIADMK,divyang welfare,0.0,0.0,0.0
-AIADMK,education,7.14,1.55,-5.59
-AIADMK,employment and jobs,17.85,7.35,-10.5
-AIADMK,governance,0.0,23.38,23.38
-AIADMK,health,3.58,4.02,0.44
-AIADMK,infrastructure,14.28,11.75,-2.53
-AIADMK,law and order,3.58,14.78,11.21
-AIADMK,religion and culture,0.0,1.33,1.33
-AIADMK,social justice and deprived communities,3.58,1.65,-1.93
-AIADMK,welfare and funds,42.85,22.34,-20.51
-AIADMK,women's development,3.58,1.79,-1.79
-DMK,agriculture and farmers,12.5,3.04,-9.46
-DMK,divyang welfare,0.0,0.39,0.39
-DMK,education,12.5,6.36,-6.14
-DMK,employment and jobs,10.71,3.79,-6.92
-DMK,governance,5.36,17.52,12.16
-DMK,health,0.0,1.99,1.99
-DMK,infrastructure,10.71,23.04,12.33
-DMK,law and order,0.0,1.79,1.79
-DMK,religion and culture,3.57,5.75,2.18
-DMK,social justice and deprived communities,5.36,4.49,-0.87
-DMK,welfare and funds,35.73,19.63,-16.1
-DMK,women's development,3.57,12.21,8.65
-TVK,agriculture and farmers,12.0,3.83,-8.17
-TVK,divyang welfare,4.0,0.0,-4.0
-TVK,education,8.0,0.85,-7.15
-TVK,employment and jobs,12.0,6.15,-5.85
-TVK,governance,12.0,40.27,28.27
-TVK,health,0.0,2.2,2.2
-TVK,infrastructure,16.0,3.35,-12.65
-TVK,law and order,2.0,8.73,6.73
-TVK,religion and culture,0.0,12.4,12.4
-TVK,social justice and deprived communities,5.99,1.47,-4.53
-TVK,welfare and funds,24.0,20.02,-3.98
-TVK,women's development,4.0,0.72,-3.28
+AIADMK,agriculture and farmers,19.68,21.0,1.32
+AIADMK,divyang welfare,2.73,0.0,-2.73
+AIADMK,education,1.1,2.72,1.63
+AIADMK,employment and jobs,16.39,3.96,-12.42
+AIADMK,governance,5.46,19.53,14.07
+AIADMK,health,3.28,1.12,-2.15
+AIADMK,infrastructure,10.39,6.7,-3.69
+AIADMK,law and order,3.28,15.52,12.24
+AIADMK,religion and culture,2.73,1.74,-1.0
+AIADMK,social justice and deprived communities,0.54,0.47,-0.07
+AIADMK,welfare and funds,28.41,21.68,-6.73
+AIADMK,women's development,6.01,5.56,-0.45
+DMK,agriculture and farmers,10.11,1.8,-8.31
+DMK,divyang welfare,1.37,0.39,-0.98
+DMK,education,8.75,2.63,-6.12
+DMK,employment and jobs,19.4,3.82,-15.58
+DMK,governance,10.38,26.4,16.02
+DMK,health,2.74,0.61,-2.13
+DMK,infrastructure,11.2,8.71,-2.49
+DMK,law and order,1.37,0.54,-0.83
+DMK,religion and culture,6.01,7.54,1.53
+DMK,social justice and deprived communities,6.28,3.3,-2.99
+DMK,welfare and funds,17.76,34.16,16.41
+DMK,women's development,4.64,10.09,5.45
+TVK,agriculture and farmers,11.08,4.5,-6.57
+TVK,divyang welfare,0.61,0.0,-0.61
+TVK,education,4.31,0.94,-3.37
+TVK,employment and jobs,24.92,7.61,-17.32
+TVK,governance,15.7,31.98,16.29
+TVK,health,3.08,6.44,3.36
+TVK,infrastructure,13.23,1.12,-12.11
+TVK,law and order,1.84,8.14,6.3
+TVK,religion and culture,4.62,12.03,7.41
+TVK,social justice and deprived communities,4.0,8.71,4.7
+TVK,welfare and funds,12.92,17.61,4.69
+TVK,women's development,3.69,0.93,-2.76

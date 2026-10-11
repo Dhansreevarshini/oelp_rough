@@ -15,10 +15,10 @@ from pathlib import Path
 # └── make_chunks_speech.py   <- this script
 
 BASE_DIR = Path(__file__).resolve().parent
-SPEECH_DIR = BASE_DIR / "speech_transcripts"
-OUTPUT_DIR = BASE_DIR / "chunks_speech"
+SPEECH_DIR = BASE_DIR / "speech_transcripts" / "zone_wise"
+OUTPUT_DIR = BASE_DIR / "chunks_zone"
 
-PARTIES = ["AIADMK", "DMK", "TVK"]
+PARTIES = ["admk", "dmk", "tvk"]
 
 CHUNK_SIZE = 150  # max words per chunk
 

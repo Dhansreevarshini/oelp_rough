@@ -1,52 +1,51 @@
 party,speech,match_overlap_%,match_cosine_%,manifesto_coverage_%,policy_content_%,top_speech_topic
-AIADMK,BJP_amit_shah_puducherry_Ox8IlmYaYnw,72.13,89.55,33.33,45.45,welfare and funds
-AIADMK,AIADMK_eps_sivaganga_fHplbO42UOQ,63.47,85.4,55.56,65.0,welfare and funds
-AIADMK,BJP_annamalai_unknown_place_w6T-z7DmPvE,61.9,79.95,55.56,63.16,welfare and funds
-AIADMK,BJP_annamalai_unknown_place_eLuZZDLvCG0,61.0,79.93,44.44,56.52,welfare and funds
-AIADMK,AIADMK_eps_tirunelveli_MoolcbHo5Cw,52.83,68.07,55.56,63.34,governance
-AIADMK,AIADMK_eps_unknown_place_CboJX5ZS7Yc,52.76,63.19,77.78,46.42,agriculture and farmers
-AIADMK,BJP_annamalai_unknown_place_OpCY9IipWyM,51.44,65.85,55.56,43.49,law and order
-AIADMK,AIADMK_eps_tenkasi_ahxboKz3Fks,42.85,60.92,11.11,40.0,governance
-AIADMK,AIADMK_eps_unknown_place_L4MaSsW53Dc,40.18,48.93,55.56,48.48,agriculture and farmers
-AIADMK,AIADMK_eps_unknown_place_uzhdJcMnxTY,39.89,59.27,55.56,58.54,agriculture and farmers
-AIADMK,BJP_annamalai_unknown_place_DoUrt4-ENaI,36.5,47.76,44.44,34.62,governance
-AIADMK,BJP_annamalai_unknown_place_1Qkod1NMMAQ,35.71,49.74,44.44,49.99,infrastructure
-AIADMK,AIADMK_eps_unknown_place_BQ4RLl3plHA,21.43,21.91,33.33,63.64,governance
-AIADMK,BJP_annamalai_unknown_place_cwtK_O8ZUpg,7.15,7.19,22.22,66.67,governance
-DMK,DMK_mk_stalin_unknown_place_UDMKDkEzH0Q,77.41,91.25,88.89,49.43,welfare and funds
-DMK,DMK_udhayanidhi_stalin_unknown_place_Y7tlmqhteHg,71.44,92.9,44.44,45.45,welfare and funds
-DMK,DMK_mk_stalin_unknown_place_aKCrFuJzmy8,64.74,69.81,100.0,68.89,women's development
-DMK,DMK_mk_stalin_unknown_place_ngRHXOc5lF4,63.82,82.93,77.78,61.42,welfare and funds
-DMK,DMK_mk_stalin_paramakudi_AUpKk_Tp-wc,63.2,78.0,66.67,88.24,welfare and funds
-DMK,DMK_mk_stalin_unknown_place_TV6zMFPEzkI,60.23,71.85,77.78,64.28,infrastructure
-DMK,DMK_mk_stalin_maraimalai_nagar_aORoE36baug,58.33,80.82,44.44,69.23,welfare and funds
-DMK,DMK_trichy_siva_unknown_place_LI-Qjk5zAHA,57.14,73.42,66.67,66.67,welfare and funds
-DMK,DMK_mk_stalin_unknown_place_1AFj15bLlJ4,57.13,71.91,44.44,46.67,infrastructure
-DMK,DMK_mk_stalin_tirupattur_pQPa4Pd0ppw,52.97,71.21,55.56,75.0,governance
-DMK,DMK_mk_stalin_viluppuram_SfLsBzeCaNM,51.2,59.34,55.56,54.35,social justice and deprived communities
-DMK,DMK_udhayanidhi_stalin_coimbatore_XkvQRmpEiTA,49.39,66.77,33.33,33.34,infrastructure
-DMK,DMK_mk_stalin_paramakudi_iHVeFRPV8DE,46.91,52.16,77.78,75.86,infrastructure
-DMK,DMK_udhayanidhi_stalin_unknown_place_-n_Pncm6mQo,46.75,63.96,44.44,73.33,education
-DMK,DMK_mk_stalin_unknown_place_01ZulxQ8Ffo,46.16,42.91,88.89,71.88,women's development
-DMK,DMK_mk_stalin_unknown_place_DE0DS3ommsg,41.66,46.36,66.67,80.0,governance
-DMK,DMK_udhayanidhi_stalin_unknown_place_TDzlhqG14Js,39.28,56.85,33.33,50.0,infrastructure
-DMK,DMK_mk_stalin_unknown_place_chVcUt_21fY,35.7,46.06,55.56,61.54,governance
-DMK,DMK_mk_stalin_unknown_place_W_V1EUi115U,32.29,27.84,55.56,84.62,infrastructure
-DMK,DMK_mk_stalin_unknown_place_d56lS5zIsg0,28.56,33.66,22.22,28.57,religion and culture
-DMK,DMK_mk_stalin_unknown_place_em3bCByg2nw,12.49,12.54,33.33,33.34,religion and culture
-DMK,DMK_kanimozhi_thoothukudi_qBXEjDhB4ng,10.71,15.22,22.22,67.8,governance
-TVK,TVK_vijay_kanyakumari_-Wf1hR8HfhY,62.67,84.66,50.0,58.44,welfare and funds
-TVK,TVK_vijay_unknown_place_gxUKFr63JAo,60.27,83.63,60.0,60.64,welfare and funds
-TVK,TVK_vijay_puducherry_66uCCl2jD_s,47.64,61.04,40.0,64.71,governance
-TVK,TVK_vijay_tiruppur_Ou_H8MFscNg,44.67,73.37,40.0,75.0,welfare and funds
-TVK,TVK_vijay_vellore_tvY9dOx-flc,43.08,53.29,50.0,44.83,governance
-TVK,TVK_vijay_karur_-W7wFFgwVuw,36.71,41.74,40.0,46.67,governance
-TVK,TVK_vijay_unknown_place_AycUJ5Ygo-E,36.53,44.38,70.0,43.86,governance
-TVK,TVK_vijay_chennai_F3qWCkrErcs,31.1,44.85,50.0,44.09,governance
-TVK,TVK_vijay_vellore_B-xu482ouJY,26.66,34.22,40.0,29.4,governance
-TVK,TVK_vijay_unknown_place_QHdUI8CBqq8,25.12,41.67,30.0,50.0,governance
-TVK,TVK_vijay_tirunelveli_jx93xjr4Z50,23.09,39.64,30.0,57.9,governance
-TVK,TVK_vijay_unknown_place_El6qxC-DR48,14.0,31.89,20.0,56.0,governance
+AIADMK,AIADMK_eps_tirunelveli_uzhdJcMnxTY,69.33,84.09,66.67,47.9,agriculture and farmers
+AIADMK,BJP_annamalai_unknown_place_eLuZZDLvCG0,69.3,86.49,58.33,25.4,welfare and funds
+AIADMK,BJP_annamalai_kangeyam_DoUrt4-ENaI,62.93,82.26,58.33,53.74,agriculture and farmers
+AIADMK,AIADMK_eps_tirunelveli_CboJX5ZS7Yc,58.92,78.8,66.67,21.44,welfare and funds
+AIADMK,BJP_annamalai_manamadurai_w6T-z7DmPvE,56.6,64.14,50.0,37.84,law and order
+AIADMK,BJP_annamalai_modakurichi_1Qkod1NMMAQ,54.68,60.98,50.0,28.02,governance
+AIADMK,BJP_annamalai_unknown_place_OpCY9IipWyM,54.43,58.91,58.33,42.65,law and order
+AIADMK,AIADMK_eps_unknown_place_L4MaSsW53Dc,51.8,69.46,50.0,42.64,agriculture and farmers
+AIADMK,AIADMK_eps_sivaganga_fHplbO42UOQ,44.15,51.32,58.33,43.15,law and order
+AIADMK,AIADMK_eps_tirunelveli_MoolcbHo5Cw,43.41,51.76,50.0,28.32,law and order
+AIADMK,AIADMK_eps_tenkasi_ahxboKz3Fks,39.89,57.88,25.0,60.71,governance
+AIADMK,AIADMK_eps_chennai_BQ4RLl3plHA,22.4,28.14,33.33,11.1,governance
+AIADMK,BJP_annamalai_chennai_cwtK_O8ZUpg,14.75,21.1,25.0,22.99,governance
+DMK,DMK_mk_stalin_cuddalore_aKCrFuJzmy8,67.05,79.64,75.0,36.33,welfare and funds
+DMK,DMK_mk_stalin_unknown_place_chVcUt_21fY,61.84,84.81,50.0,36.85,welfare and funds
+DMK,DMK_mk_stalin_tirupattur_pQPa4Pd0ppw,57.13,71.51,58.33,39.8,governance
+DMK,DMK_mk_stalin_virudhunagar_UDMKDkEzH0Q,55.09,71.34,66.67,35.86,welfare and funds
+DMK,DMK_mk_stalin_ramanathapuram_AUpKk_Tp-wc,53.79,71.03,50.0,20.0,welfare and funds
+DMK,DMK_mk_stalin_maraimalai_nagar_aORoE36baug,51.72,70.67,50.0,32.0,welfare and funds
+DMK,DMK_mk_stalin_unknown_place_DE0DS3ommsg,51.55,61.64,50.0,35.95,governance
+DMK,DMK_trichy_trichy_LI-Qjk5zAHA,50.98,57.75,83.33,60.91,governance
+DMK,DMK_mk_stalin_chennai_TV6zMFPEzkI,49.68,69.45,66.67,37.71,welfare and funds
+DMK,DMK_mk_stalin_unknown_place_ngRHXOc5lF4,49.65,67.07,66.67,39.69,welfare and funds
+DMK,DMK_mk_stalin_paramakudi_iHVeFRPV8DE,48.83,71.94,58.33,24.85,welfare and funds
+DMK,DMK_udhayanidhi_stalin_chennai_-n_Pncm6mQo,48.08,70.07,33.33,30.23,welfare and funds
+DMK,DMK_mk_stalin_unknown_place_W_V1EUi115U,46.51,60.14,58.33,33.78,welfare and funds
+DMK,DMK_mk_stalin_unknown_place_01ZulxQ8Ffo,45.86,37.06,91.67,34.95,women's development
+DMK,DMK_mk_stalin_cuddalore_SfLsBzeCaNM,42.63,52.77,50.0,29.07,governance
+DMK,DMK_udhayanidhi_stalin_unknown_place_Y7tlmqhteHg,42.27,64.77,33.33,24.19,welfare and funds
+DMK,DMK_mk_stalin_unknown_place_d56lS5zIsg0,38.67,49.28,33.33,43.59,religion and culture
+DMK,DMK_udhayanidhi_stalin_coimbatore_XkvQRmpEiTA,37.81,48.33,25.0,31.63,governance
+DMK,DMK_mk_stalin_unknown_place_1AFj15bLlJ4,37.66,59.51,33.33,48.84,governance
+DMK,DMK_udhayanidhi_stalin_unknown_place_TDzlhqG14Js,33.6,56.91,25.0,30.43,welfare and funds
+DMK,DMK_mk_stalin_unknown_place_em3bCByg2nw,29.32,37.16,33.33,36.0,religion and culture
+DMK,DMK_kanimozhi_thoothukudi_qBXEjDhB4ng,21.31,35.75,25.0,16.31,governance
+TVK,TVK_vijay_tiruppur_Ou_H8MFscNg,56.22,79.97,50.0,93.22,employment and jobs
+TVK,TVK_vijay_unknown_place_gxUKFr63JAo,52.6,74.48,50.0,26.6,welfare and funds
+TVK,TVK_vijay_vellore_tvY9dOx-flc,45.59,52.4,75.0,36.27,governance
+TVK,TVK_vijay_kanyakumari_-Wf1hR8HfhY,44.31,63.4,41.67,88.77,governance
+TVK,TVK_vijay_chennai_F3qWCkrErcs,39.69,55.43,50.0,31.03,governance
+TVK,TVK_vijay_puducherry_66uCCl2jD_s,39.22,57.43,33.33,33.19,welfare and funds
+TVK,TVK_vijay_unknown_place_AycUJ5Ygo-E,39.22,53.84,66.67,41.2,governance
+TVK,TVK_vijay_unknown_place_El6qxC-DR48,35.07,53.79,33.33,24.46,governance
+TVK,TVK_vijay_unknown_place_QHdUI8CBqq8,35.07,52.29,33.33,31.34,governance
+TVK,TVK_vijay_vellore_B-xu482ouJY,34.76,45.51,58.33,20.22,governance
+TVK,TVK_vijay_tirunelveli_jx93xjr4Z50,33.66,48.88,33.33,34.77,governance
+TVK,TVK_vijay_karur_-W7wFFgwVuw,22.46,19.71,41.67,68.47,health
+TVK,TVK_vijay_unknown_place_eqSUQwp3l14,8.62,16.25,16.67,100.0,religion and culture
 TVK,TVK_vijay_unknown_place_Tm1jIeWM_Ac,0.0,0.0,0.0,0.0,agriculture and farmers
 TVK,TVK_vijay_unknown_place_UveWKSJSj1I,0.0,0.0,0.0,0.0,agriculture and farmers
-TVK,TVK_vijay_unknown_place_eqSUQwp3l14,0.0,0.0,0.0,50.0,religion and culture
